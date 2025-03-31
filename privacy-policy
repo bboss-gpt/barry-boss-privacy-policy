@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – Barry Boss GPT</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    a {
+      color: #0066cc;
+    }
+    hr {
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy for Barry Boss GPT</h1>
+  <p><strong>Effective Date:</strong> March 31, 2025</p>
+
+  <p>Thank you for using Barry Boss, a custom GPT created using OpenAI’s GPT platform. This privacy policy explains how this GPT handles data during interactions.</p>
+
+  <h2>1. No Data Collection or Storage</h2>
+  <p>Barry Boss does <strong>not</strong> store, log, or retain any personal data. All conversations are processed in real time and are not saved beyond the session.</p>
+
+  <h2>2. Use of OpenAI Platform</h2>
+  <p>This GPT runs on OpenAI’s infrastructure. Any inputs you provide are subject to 
+    <a href="https://openai.com/privacy" target="_blank" rel="noopener noreferrer">OpenAI’s Privacy Policy</a> 
+    and Terms of Use. OpenAI may store and use inputs to improve its models, unless you are using the GPT in a platform-provided private mode.
+  </p>
+
+  <h2>3. No Sharing of Data</h2>
+  <p>Barry Boss does not share, transmit, or distribute any user data to third parties. Responses are generated based solely on the current interaction and predefined instructions.</p>
+
+  <h2>4. Intended Audience</h2>
+  <p>Barry Boss is designed for University of Florida students enrolled in GEB 3213 who are completing writing assignments in a fictional workplace scenario. It is intended for educational use only.</p>
+
+  <h2>5. Security</h2>
+  <p>This GPT does not store data and does not connect to any external servers outside of OpenAI's infrastructure. All usage is governed and secured by OpenAI’s platform.</p>
+
+  <h2>6. Contact</h2>
+  <p>For questions or concerns about this GPT or its privacy practices, please contact the developer directly through GitHub or the OpenAI GPT configuration page where this GPT is listed.</p>
+
+  <hr>
+
+  <p><strong>Note:</strong> As this GPT is built on the OpenAI platform, your use of it is also subject to 
+    <a href="https://openai.com/terms" target="_blank" rel="noopener noreferrer">OpenAI’s Terms of Use</a> 
+    and 
+    <a href="https://openai.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+  </p>
+
+</body>
+</html>
